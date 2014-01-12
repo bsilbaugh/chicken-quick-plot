@@ -1,0 +1,29 @@
+
+                              ~ Quick Plot ~
+
+A collection of high-level utilites for generating data plots.
+
+Copyright 2014 Benjamin Silbaugh
+
+See LICENSE file for redistribution and modification permissions.
+
+|||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+
+Description
+===========
+
+Quick Plot is a Chicken module containing a collection of utilities (Scheme
+procedures and macros) for generating 2D plots of data sets. The emphasis
+is on data exploration and generating plots quickly in an interactive
+environment (REPL), rather than creating publication quality plots.
+
+Status
+======
+
+Quick Plot is in an experimental state. Breaking changes are likely to
+occur. There may be critical bugs.
+
+Installation
+============
+
+-- TODO --
